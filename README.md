@@ -1,2 +1,2 @@
 # whale
-stoploss on steroids for big accounts, the ultimate heavyweight AI, fund manager, &amp; auto trader
+stoploss on steroids for big accounts, includes the ultimate heavyweight in AI investing/trading, fund manager, &amp; auto trader
